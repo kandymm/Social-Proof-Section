@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=League+Spartan:wght@400;500;700&display=swap');
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: "League Spartan" , sans-serif;
+    font-size: 15px;
+}
+#container{
+  padding: 2rem;
+    background-color: rgb(211, 221, 221);
+    width: 70rem;
+    border-radius: 20px;
+    box-shadow: 7px 7px 20px ;
+}
+#ouruser{
+    width: 320px;
+    font-weight: 700;
+color: hsl(300, 43%, 22%);
+}
+#firstparag{
+width: 450px;
+font-weight: 400;
+font-size: 18px;
+color: hsl(303, 10%, 53%);
+}
+#stars{
+    width: 500px;
+  color: hsl(300, 43%, 22%);
+font-weight: 700;
+font-size: 16px;
+    
+}
+#fisrtstar{
+    width: 450px;
+    text-indent: 2rem;
+}
+#secondstar{
+    width: 450px;
+    text-indent: 2rem;   
+}
+#thirdstar{
+    width: 450px;
+    text-indent: 2rem;
+}
+.rounded{
+    background-color:hsl(300, 43%, 22%) ;
+    color: white;
+    width: 300px;
+    height: 220px;
+    box-sizing: border-box;
+}
+h3{
+    font-weight: 500;
+    font-size: 20px;
+}
+ h6{
+    color: hsl(333, 80%, 67%);
+    font-size: 15px;
+}
+
